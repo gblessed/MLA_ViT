@@ -1,0 +1,6 @@
+BATCH_SIZE : 4
+LR: 0.0001    ## Learning rate
+EPOCHS : 135
+S: 7 ## number of grid
+B: 2 ## predictor per cell
+NUM_CLASSES: 20 ##number of classes
