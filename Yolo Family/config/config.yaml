@@ -1,4 +1,4 @@
-BATCH_SIZE : 4
+BATCH_SIZE : 64
 LR: 0.0001    ## Learning rate
 EPOCHS : 135
 S: 7 ## number of grid
